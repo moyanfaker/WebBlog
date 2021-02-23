@@ -1,0 +1,13 @@
+{
+  "name": "studyblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "moyanfaker",
+  "license": "ISC"
+}
